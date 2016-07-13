@@ -1,0 +1,15 @@
+{
+  "name": "netsync",
+  "version": "0.0.1",
+  "description": "NodeJS basic network synchronization for multiplayer games, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchan/netsync.git"
+  },
+  "author": "Clive Chan (cc@clive.io)",
+  "license": "MIT"
+}
